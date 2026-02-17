@@ -7,19 +7,8 @@ A java library to restore broken JSON strings, useful for repairing malformed JS
 
 ## Setup
 
-We will try to keep up to tags of the original project, just push/fire an issue if delay.
+To be updated..
 
-```xml
-<dependency>
-    <groupId>io.github.cdeor</groupId>
-    <artifactId>json-restore</artifactId>
-    <version>${jsonRestoreVersion}</version>
-</dependency>
-```
-
-```groovy
-implementation 'io.github.cdeor:json-restore:${jsonRestoreVersion}'
-```
 
 ## Usage
 
