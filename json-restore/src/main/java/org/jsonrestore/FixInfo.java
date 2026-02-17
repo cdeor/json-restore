@@ -1,0 +1,11 @@
+package org.jsonrestore;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+
+@Data
+@AllArgsConstructor
+public class FixInfo {
+    String text;
+    String context;
+}

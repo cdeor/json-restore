@@ -1,0 +1,2 @@
+rootProject.name = "json-restore"
+include "json-restore"
