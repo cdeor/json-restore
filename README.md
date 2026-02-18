@@ -5,11 +5,6 @@
 
 A java library to restore broken JSON strings, useful for repairing malformed JSON output from Large Language Models.
 
-## Setup
-
-To be updated..
-
-
 ## Usage
 
 ```java
